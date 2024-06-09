@@ -30,14 +30,6 @@ I am a frontend developer with 3 years of experience, proficient in React.js, Re
 - **Mobile Development**: React Native
 - **Tools & Technologies**: Jest, Enzyme, Material UI, Git, Three.js
 
-## Testimonials
-
-> "Collaborating with Saurav was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Saurav's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Saurav is the ideal partner."
-- Michael Johnson, Director of AlphaStream Technologies
-
-> "Saurav's expertise in frontend development is unmatched. His ability to quickly address and fix bugs, combined with his creativity in crafting user-friendly interfaces, made him an invaluable asset to our team. Highly recommended for any web development projects."
-- Sarah Lee, Project Manager at Tech Solutions
-
 ## Contact
 
 Feel free to reach out to me for collaborations or inquiries:
